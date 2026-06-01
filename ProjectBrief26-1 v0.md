@@ -467,7 +467,7 @@
 [Return TOP](#list-of-teamsprojects)
  
 # Team-29
-| (1) 과제명 |  Optimized Kernel Fusion for Accelerating Multimodal Inference on Edge Devices |
+| (1) 과제명 |  Accelerating Vision Transformer Inference via Non-GEMM Kernel Fusion on Edge GPUs |
 |:---  |---  |
 | (2) 팀 번호/이름 | 29-Nitro |
 | (3) 구성원 | 강선화(2376004): 리더, Multimodal Model 구조 분석 및 프로파일링, Kernel Fusion 구현, 성능 비교 실험 진행 <br> 박세진(2217011): 팀원, 프로젝트 전체 연구 방향 설계, Multimodal Model 구조 분석 및 프로파일링, Kernel Fusion 구현, 성능 비교 실험 진행  <br> 박윤형(2271029): 팀원, Multimodal Model 구조 분석 및 프로파일링, Kernel Fusion 구현, 성능 비교 실험 진행 |
